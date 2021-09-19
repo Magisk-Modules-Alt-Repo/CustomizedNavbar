@@ -1,4 +1,4 @@
-# CustomNavbarConstructor
+# Module
 Customized Navbar Gesture Indicator
 
 ## Description
