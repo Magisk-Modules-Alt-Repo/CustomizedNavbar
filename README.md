@@ -1,3 +1,5 @@
+![](https://github.com/PycmShoma/CustomNavbarConstructor/blob/main/assets/gestural_navbar.png)
+
 # Module
 Customized Navbar Gesture Indicator
 
