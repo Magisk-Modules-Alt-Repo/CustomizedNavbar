@@ -1,6 +1,6 @@
-id=CustomNavbarConstructor
-name=Custom Navbar
-version=ver.1.0
-versionCode=01
-author=Pycm
-description=Changed default Navbar Gesture Indicator color to accent theme color, increased length and thickness
+id=CustomizedNavbar
+name=Customized Navbar Gesture Indicator
+version=3.1
+versionCode=04
+author=Pycm [4PDA]
+description=Change Navbar Gesture Indicator color to match the theme's accent color, increase wide and thickness

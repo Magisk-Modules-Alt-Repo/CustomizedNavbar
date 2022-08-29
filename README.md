@@ -1,15 +1,11 @@
-![](https://github.com/PycmShoma/CustomNavbarConstructor/blob/main/gestural_navbar.png)
-
 # Module
-Customized Navbar Gesture Indicator
+ Customized Navbar Gesture Indicator
 
 ## Description
-- Changed default navbar gesture indicator color to accent theme color, increased length and thickness
-
-- You can exclude one or two items from the three by removing the unnecessary package
-
-- Navbar Color Overlay Changes the color of the gesture indicator
-
-- Navbar Width Overlay changes the length of the gesture indicator
-
-- Navbar Heigth Overlay changes the thickness of the gesture indicator 
+ Increasing the thickness and wide of the indicator, Change color to match the theme's accent color.
+ You can choose which of the overlays to apply during installation
+ Volume up (+) to change selection. Install or no.
+ Volume down (-) to apply
+- Colored Navbar Overlay change the color of the gesture indicator
+- Wided Navbar Overlay change the width of the gesture indicator
+- Thickned Navbar Overlay change the thickness of the gesture indicator
