@@ -1,3 +1,4 @@
+MODDIR=${0%/*}
 # Finding directory of overlays
 ui_print " "
 ui_print "   Find target directory of the overlays ... "
