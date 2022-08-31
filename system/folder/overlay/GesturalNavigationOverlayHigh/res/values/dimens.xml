@@ -16,5 +16,11 @@
 */
 -->
 <resources>
-    <string name="navigation_bar_high">GesturalNavigationOverlayHigh</string>
+    <!-- dimensions for the navigation bar high -->
+    <dimen name="config_backGestureInset">24.0dp</dimen>
+    <dimen name="navigation_bar_frame_height">0.0dp</dimen>
+    <dimen name="navigation_bar_gesture_height">32.0dp</dimen>
+    <dimen name="navigation_bar_height">0.0dp</dimen>
+    <dimen name="navigation_handle_bottom">1.0dp</dimen>
+    <dimen name="navigation_handle_radius">3.0dp</dimen>
 </resources>
