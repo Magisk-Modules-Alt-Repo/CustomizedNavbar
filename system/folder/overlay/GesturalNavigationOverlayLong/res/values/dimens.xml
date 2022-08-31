@@ -16,5 +16,7 @@
 */
 -->
 <resources>
-    <string name="navigation_bar_length_long">GesturalNavigationOverlayLong</string>
+    <!-- dimensions for the navigation bar handle -->
+    <dimen name="navigation_home_handle_width">140dp</dimen>
+    <dimen name="navigation_home_handle_width_land">310dp</dimen>
 </resources>
