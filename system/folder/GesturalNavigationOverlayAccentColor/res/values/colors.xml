@@ -16,5 +16,7 @@
 */
 -->
 <resources>
-    <string name="navigation_bar_accent_color">GesturalNavigationOverlayAccentColor</string>
+    <!-- colors for the navigation bar indicated -->
+    <color name="navigation_bar_home_handle_dark_color">@android:color/accent_device_default</color>
+    <color name="navigation_bar_home_handle_light_color">@android:color/accent_device_default</color>
 </resources>
