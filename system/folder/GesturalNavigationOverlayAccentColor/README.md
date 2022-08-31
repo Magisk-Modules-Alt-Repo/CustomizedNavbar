@@ -1,0 +1,1 @@
+https://github.com/PycmShoma/android_vendor_addons/tree/12.1/misc/GesturalNavigationOverlayAccentColor
