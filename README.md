@@ -1,5 +1,4 @@
-# Module
- Customized Gestural Navbar
+# Customized Navbar
 
 ## Description
  Increasing the thickness and wide of the indicator, Change color to match the theme's accent color.
