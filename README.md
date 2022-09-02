@@ -9,6 +9,10 @@
 - Wided Navbar Overlay change the width of the gesture indicator
 - Thickned Navbar Overlay change the thickness of the gesture indicator
 
+## Versions
+- v.1.0 for Android OS 10-11
+- v.3.1 for Android OS 12+
+
 ## Options
 
 ![](https://github.com/PycmShoma/CustomNavbarConstructor/blob/main/assets/0-1-1-choose.png)
