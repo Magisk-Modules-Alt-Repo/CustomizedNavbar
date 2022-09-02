@@ -10,6 +10,8 @@
 - Wided Navbar Overlay change the width of the gesture indicator
 - Thickned Navbar Overlay change the thickness of the gesture indicator
 
+## Options
+
 ![](https://github.com/PycmShoma/CustomNavbarConstructor/blob/main/assets/0-1-1-choose.png)
 ![](https://github.com/PycmShoma/CustomNavbarConstructor/blob/main/assets/0-1-1-result.png)
 
