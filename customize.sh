@@ -57,7 +57,7 @@ A=1
   done
 
   case $A in
-    2 ) echo "   Colored NavBar overlay SKIPED" > $MODPATH/install.log; rm -r $TARGET/overlay/NavbarColorOverlay;;
+    2 ) echo "   Colored NavBar overlay SKIPED" > $MODPATH/install.log; rm -r $TARGET/overlay/GesturalNavigationOverlayAccentColor;;
     1 ) echo "   Colored NavBar overlay INSTALLED" > $MODPATH/install.log;;
   esac
 # Second overlay
@@ -84,7 +84,7 @@ A=1
   done
 
   case $A in
-    2 ) echo "   Wided NavBar overlay SKIPED" >> $MODPATH/install.log; rm -r $TARGET/overlay/NavbarWidthOverlay;;
+    2 ) echo "   Wided NavBar overlay SKIPED" >> $MODPATH/install.log; rm -r $TARGET/overlay/GesturalNavigationOverlayLong;;
     1 ) echo "   Wided NavBar overlay INSTALLED" >> $MODPATH/install.log;;
   esac
 # Third overlay
@@ -111,7 +111,7 @@ A=1
   done
 
   case $A in
-    2 ) echo "   Thickned NavBar overlay SKIPED" >> $MODPATH/install.log; rm -r $TARGET/overlay/NavbarHeigthOverlay;;
+    2 ) echo "   Thickned NavBar overlay SKIPED" >> $MODPATH/install.log; rm -r $TARGET/overlay/GesturalNavigationOverlayHigh;;
     1 ) echo "   Thickned NavBar overlay INSTALLED" >> $MODPATH/install.log;;
   esac
 # Result
@@ -123,4 +123,5 @@ cat $MODPATH/install.log
 ui_print " "
 # Clean temporary directory
 rm -r $MODPATH/addon
+rm -r $MODPATH/assets
 rm $MODPATH/install.log
