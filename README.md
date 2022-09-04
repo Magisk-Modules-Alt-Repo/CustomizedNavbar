@@ -10,8 +10,8 @@
 - Thickned Navbar Overlay change the thickness of the gesture indicator
 
 ## Versions
-- v.1.0 for Android OS 10-11
-- v.3.1 for Android OS 12+
+- v.1.0 for Android OS 10-11 https://github.com/Magisk-Modules-Alt-Repo/CustomizedNavbar/releases/tag/1.0
+- v.3.1 for Android OS 12+ https://github.com/Magisk-Modules-Alt-Repo/CustomizedNavbar/releases/tag/3.1
 
 ## Options
 
@@ -26,4 +26,3 @@
 
 ![](https://github.com/Magisk-Modules-Alt-Repo/CustomizedNavbar/blob/main/assets/1-1-1-choose.png)
 ![](https://github.com/Magisk-Modules-Alt-Repo/CustomizedNavbar/blob/main/assets/1-1-1-result.png)
-https://github.com/Magisk-Modules-Alt-Repo/CustomizedNavbar/blob/main/assets/0-1-1-choose.png
