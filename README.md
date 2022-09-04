@@ -26,4 +26,3 @@
 
 ![](https://github.com/Magisk-Modules-Alt-Repo/CustomizedNavbar/blob/main/assets/1-1-1-choose.png)
 ![](https://github.com/Magisk-Modules-Alt-Repo/CustomizedNavbar/blob/main/assets/1-1-1-result.png)
-https://github.com/Magisk-Modules-Alt-Repo/CustomizedNavbar/blob/main/assets/0-1-1-choose.png
