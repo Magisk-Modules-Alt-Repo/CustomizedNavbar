@@ -15,14 +15,14 @@
 
 ## Options
 
-![](https://github.com/PycmShoma/CustomNavbarConstructor/blob/main/assets/0-1-1-choose.png)
-![](https://github.com/PycmShoma/CustomNavbarConstructor/blob/main/assets/0-1-1-result.png)
+![](https://github.com/Magisk-Modules-Alt-Repo/CustomNavbarConstructor/blob/main/assets/0-1-1-choose.png)
+![](https://github.com/Magisk-Modules-Alt-Repo/CustomNavbarConstructor/blob/main/assets/0-1-1-result.png)
 
-![](https://github.com/PycmShoma/CustomNavbarConstructor/blob/main/assets/1-0-0-choose.png)
-![](https://github.com/PycmShoma/CustomNavbarConstructor/blob/main/assets/1-0-0-result.png)
+![](https://github.com/Magisk-Modules-Alt-Repo/CustomNavbarConstructor/blob/main/assets/1-0-0-choose.png)
+![](https://github.com/Magisk-Modules-Alt-Repo/CustomNavbarConstructor/blob/main/assets/1-0-0-result.png)
 
-![](https://github.com/PycmShoma/CustomNavbarConstructor/blob/main/assets/1-1-0-choose.png)
-![](https://github.com/PycmShoma/CustomNavbarConstructor/blob/main/assets/1-1-0-result.png)
+![](https://github.com/Magisk-Modules-Alt-Repo/CustomNavbarConstructor/blob/main/assets/1-1-0-choose.png)
+![](https://github.com/Magisk-Modules-Alt-Repo/CustomNavbarConstructor/blob/main/assets/1-1-0-result.png)
 
-![](https://github.com/PycmShoma/CustomNavbarConstructor/blob/main/assets/1-1-1-choose.png)
-![](https://github.com/PycmShoma/CustomNavbarConstructor/blob/main/assets/1-1-1-result.png)
+![](https://github.com/Magisk-Modules-Alt-Repo/CustomNavbarConstructor/blob/main/assets/1-1-1-choose.png)
+![](https://github.com/Magisk-Modules-Alt-Repo/CustomNavbarConstructor/blob/main/assets/1-1-1-result.png)
