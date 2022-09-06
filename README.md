@@ -6,9 +6,9 @@
 > Volume up (+) to change selection. Install or not.
 
 > Volume down (-) to apply
-- **Colored Navbar Overlay** change the color of the gesture indicator
-- **Wided Navbar Overlay** change the width of the gesture indicator
-- **Thickned Navbar Overlay** change the thickness of the gesture indicator
+- `Colored Navbar Overlay` change the color of the gesture indicator
+- `Wided Navbar Overlay` change the width of the gesture indicator
+- `Thickned Navbar Overlay` change the thickness of the gesture indicator
 
 ## Versions
 - [**v.1.0 for Android OS 10-11**](https://github.com/Magisk-Modules-Alt-Repo/CustomizedNavbar/releases/tag/1.0)
@@ -40,3 +40,5 @@
 
 ## Credits
 [Keycheck](https://github.com/Zackptg5/Keycheck) by [Zackptg5](https://github.com/Zackptg5)
+
+### Test
