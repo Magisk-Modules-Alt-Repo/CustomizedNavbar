@@ -37,3 +37,6 @@
 <img width="900" height="150" src="https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/CustomizedNavbar/main/assets/1-1-1-choose.png">
 <img width="900" height="150" src="https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/CustomizedNavbar/main/assets/1-1-1-result.png">
 </p>
+
+## Credits
+[Keycheck](https://github.com/Zackptg5/Keycheck) by [Zackptg5](https://github.com/Zackptg5)
