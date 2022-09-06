@@ -16,14 +16,14 @@
 
 ## Options
 
-<img width="400" height="50" src="https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/CustomizedNavbar/main/assets/0-1-1-choose.png">
-<img width="400" height="50" src="https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/CustomizedNavbar/main/assets/0-1-1-result.png">
+<img width="5100" height="100" src="https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/CustomizedNavbar/main/assets/0-1-1-choose.png">
+<img width="5100" height="100" src="https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/CustomizedNavbar/main/assets/0-1-1-result.png">
 
-<img width="400" height="50" src="https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/CustomizedNavbar/main/assets/1-0-0-choose.png">
-<img width="400" height="50" src="https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/CustomizedNavbar/main/assets/1-0-0-result.png">
+<img width="5100" height="100" src="https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/CustomizedNavbar/main/assets/1-0-0-choose.png">
+<img width="5100" height="100" src="https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/CustomizedNavbar/main/assets/1-0-0-result.png">
  
-<img width="400" height="50" src="https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/CustomizedNavbar/main/assets/1-1-0-choose.png">
-<img width="400" height="50" src="https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/CustomizedNavbar/main/assets/1-1-0-result.png">
+<img width="5100" height="100" src="https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/CustomizedNavbar/main/assets/1-1-0-choose.png">
+<img width="5100" height="100" src="https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/CustomizedNavbar/main/assets/1-1-0-result.png">
 
-<img width="400" height="50" src="https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/CustomizedNavbar/main/assets/1-1-1-choose.png">
-<img width="400" height="50" src="https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/CustomizedNavbar/main/assets/1-1-1-result.png">
+<img width="5100" height="100" src="https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/CustomizedNavbar/main/assets/1-1-1-choose.png">
+<img width="5100" height="100" src="https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/CustomizedNavbar/main/assets/1-1-1-result.png">
