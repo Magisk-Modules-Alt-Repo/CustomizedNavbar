@@ -25,6 +25,8 @@ sleep 1
     ui_print "   Installation aborting"
     abort
   fi;
+ui_print "*******************"
+ui_print " "
 sleep 1
 # Key-Selector addon starting
 . $MODPATH/addon/Volume-Key-Selector/install.sh
@@ -33,6 +35,8 @@ ui_print " "
 sleep 1
 ui_print "   Volume up (+) to change selection"
 ui_print "   Volume down (-) to decide"
+ui_print " "
+ui_print "*******************"
 ui_print " "
 sleep 1
 # First overlay
@@ -62,7 +66,9 @@ A=1
   esac
 # Second overlay
 ui_print " "
+ui_print "*******************"
 sleep 1
+ui_print " "
 ui_print "   Install Wided overlay?"
 ui_print " "
 
@@ -89,7 +95,9 @@ A=1
   esac
 # Third overlay
 ui_print " "
+ui_print "*******************"
 sleep 1
+ui_print " "
 ui_print "   Install Thickned overlay?"
 ui_print " "
 
@@ -115,6 +123,8 @@ A=1
     1 ) echo "   Thickned NavBar overlay INSTALLED" >> $MODPATH/install.log;;
   esac
 # Result
+ui_print " "
+ui_print "*******************"
 sleep 1
 ui_print " "
 ui_print "   You have selected:"
