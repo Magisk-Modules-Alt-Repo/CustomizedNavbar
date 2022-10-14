@@ -17,8 +17,6 @@
 ## Options
 [See screenshots with options here](https://github.com/PycmShoma/CustomizedNavbar/blob/main/assets/options.md)
 
-#
-#
 ## Credits
 [Keycheck](https://github.com/Zackptg5/Keycheck) by [Zackptg5](https://github.com/Zackptg5)
 
