@@ -15,7 +15,8 @@
 - [**v.3.x for Android OS 12+** (A13 included)](https://github.com/Magisk-Modules-Alt-Repo/CustomizedNavbar/releases/tag/3.1)
 
 ## Options
-[See screenshots with options here](https://github.com/PycmShoma/CustomizedNavbar/blob/main/assets/options.md)
+[See screenshots with options here](https://github.com/Magisk-Modules-Alt-Repo/CustomizedNavbar/blob/main/assets/options.md)
+
 
 ## Credits
 [Keycheck](https://github.com/Zackptg5/Keycheck) by [Zackptg5](https://github.com/Zackptg5)
