@@ -23,6 +23,5 @@
 
 #
 #
-![Latest Release](https://img.shields.io/github/downloads/Magisk-Modules-Alt-Repo/CustomizedNavbar/latest/total?label=Downloads%20%28Latest%20Release%29&style=social)
+![Latest Release](https://img.shields.io/github/downloads/Magisk-Modules-Alt-Repo/CustomizedNavbar/3.2/total?label=Downloads%20%28Latest%20Release%29&style=social)
 ![All Releases](https://img.shields.io/github/downloads/Magisk-Modules-Alt-Repo/CustomizedNavbar/total?label=Downloads%20%28All%20Releases%29&style=social)
-
